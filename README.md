@@ -1,1 +1,1 @@
-I used the pandas, seaborn, and matplotlib libraries respectively to extract data from a csv file then transform that data to visualizations.
+I used the Pandas library to extract data from a CSV file, then used Seaborn and Matplotlib to create visualizations.
